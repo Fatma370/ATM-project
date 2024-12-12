@@ -1,0 +1,4 @@
+﻿  ATMproject.cpp
+C:\Users\USER\source\PROGRAMMING\level_8\ATMproject\ATMproject\ATMproject.cpp(310,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\PROGRAMMING\level_8\ATMproject\ATMproject\ATMproject.cpp(274,1): warning C4715: 'getWithdrawAmount': not all control paths return a value
+  ATMproject.vcxproj -> C:\Users\USER\source\PROGRAMMING\level_8\ATMproject\ATMproject\x64\Debug\ATMproject.exe
